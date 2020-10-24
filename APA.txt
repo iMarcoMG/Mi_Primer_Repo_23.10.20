@@ -1,0 +1,3 @@
+Formato APA
+
+Apellido, Inicial. (año de escritura). Cursivas título del libro. Ciudad, País: Editorial. (año de publicación)
